@@ -14,7 +14,7 @@
     "@bazzite/nuxt-netlify": "^0.1.1",
     "@nuxtjs/markdownit": "^1.2.0",
     "@nuxtjs/pwa": "^3.0.0-0",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.15.8"
   },
   "devDependencies": {
     "glob": "^7.1.4"
